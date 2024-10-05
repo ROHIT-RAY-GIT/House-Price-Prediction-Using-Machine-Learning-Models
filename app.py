@@ -74,7 +74,7 @@ st.markdown("<h1 style='text-align: center;'>Housing Price Prediction</h1>", uns
 
 # Predict using the selected model
 selected_model = st.selectbox("Choose a model", ['LinearRegression', 'RidgeRegression', 'LassoRegression', 
-                                                   'ElasticNet', 'SGDRegressor', 'RandomForest', 
+                                                   'ElasticNet', 'SGDRegressor', 
                                                    'SVM', 'LGBM', 'XGBoost', 'KNN'])
 
 # User input for features
