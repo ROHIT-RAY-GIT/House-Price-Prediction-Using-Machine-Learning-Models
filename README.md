@@ -7,6 +7,7 @@ The **Housing Price Prediction** project utilizes various machine learning model
 - **Models Used**: Linear Regression, Ridge Regression, Lasso Regression, Elastic Net, Stochastic Gradient Descent, Random Forest, Support Vector Machines, LightGBM, XGBoost, and K-Nearest Neighbors.
 - **Data Source**: The dataset used for this project contains information about housing characteristics in the USA, including features such as area income, house age, and population.
 - **User-Friendly Interface**: Built with Streamlit, providing an interactive frontend for users to input property details and receive predicted prices.
+- **Link**: **https://house-price-prediction-using-machine-learning-models.streamlit.app/**
 
 ## 💻 Features:
 - **Model Selection**: Users can choose from multiple regression models to see how predictions vary.
