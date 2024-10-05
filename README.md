@@ -50,4 +50,6 @@ These results emphasize the importance of model selection and tuning in achievin
 - **Feature Engineering**: Explore feature selection and engineering techniques to enhance model performance.
 
 ## 🚫 File Size Limitation
-Please note that the **RandomForest.pkl** model file is approximately **35MB** in size, which exceeds GitHub's file upload limits for repositories. As a result, it is not included in this repository. You can obtain this file through direct communication or alternative file-sharing methods if needed.
+Please note that the **RandomForest.pkl** model file is approximately **35MB** in size, which exceeds GitHub's file upload limits for repositories. As a result, it is not included in this repository. You can obtain this file through direct communication or alternative file-sharing methods if needed or you can simply run the model with the dataset to obtain the file.
+
+**Thank You** 🙏
